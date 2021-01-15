@@ -10,25 +10,25 @@ const quiz1 =
     "quizContent":		
 		[
 			{
-				"question": "Zin in de quiz?",
+				"question": "In welke provincie ligt het Museum?",
 				"answers": [{
-						"answer": "Ja",
+						"answer": "Noord-Holland",
+						"feedback": false
+					},
+					{
+						"answer": "Zuid-Holland",
 						"feedback": true
 					},
 					{
-						"answer": "Nee",
+						"answer": "Brabant",
 						"feedback": false
 					},
 					{
-						"answer": "",
+						"answer": "Friesland",
 						"feedback": false
 					},
 					{
-						"answer": "",
-						"feedback": false
-					},
-					{
-						"answer": "",
+						"answer": "Groningen",
 						"feedback": false
 					}
 				]
@@ -75,3 +75,4 @@ const quiz1 =
 			}
 		]
 	}
+    
