@@ -1,2 +1,2 @@
-# Repositorty-Bo-het-Lam
+# Repository-Bo-het-Lam
 Museum Online
